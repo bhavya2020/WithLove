@@ -5,9 +5,12 @@
 h1.ui.header{
     text-align: center;
 }
-p{
+p.data{
     font-size: large;
 }
 ul{
+    font-size: large;
+}
+ol{
     font-size: large;
 }
