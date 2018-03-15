@@ -1,0 +1,25 @@
+.margin-top-147 {
+    margin-top: 22vh;
+    margin-bottom: 10vh;
+}
+@media(min-width: 700px){
+    .margin-top-147 {
+        margin-top: 15vh;
+    }
+}
+.clr-sml{
+    height: 2vh;
+}
+body{
+    height: auto;
+}
+.text-center{
+    text-align: center;
+}
+.margin-left-right-20{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.t18{
+    font-size: 1.5em;
+}
