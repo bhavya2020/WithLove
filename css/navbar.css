@@ -4,6 +4,16 @@
 /*#nav-adjust {*/
 /*margin-top: 3.6em;*/
 /*}*/
+.ui.inverted.section.divider{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+#copyright{
+    margin: 0;
+}
+.ui.circular.icon.button.social-icon{
+    margin: 6px;
+}
 #navbar-small{
     display: inline-flex;
 }
