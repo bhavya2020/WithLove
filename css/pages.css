@@ -14,3 +14,8 @@ ul{
 ol{
     font-size: large;
 }
+#quote{
+    font-size: x-large;
+    text-align: center;
+    color: #0ea432;
+}
