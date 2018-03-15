@@ -19,3 +19,17 @@ ol{
     text-align: center;
     color: #0ea432;
 }
+#video-small{
+    display: inline-flex;
+}
+#video-big {
+    display: none;
+}
+@media (min-width: 770px) {
+    #video-big{
+        display: inline-flex;
+    }
+    #video-small{
+        display: none;
+    }
+}
