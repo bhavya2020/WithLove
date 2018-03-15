@@ -1,0 +1,13 @@
+#containerMain{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+h1.ui.green.header{
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+ul{
+    font-size: large;
+}
