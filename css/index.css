@@ -59,16 +59,16 @@
     background-size: cover;
 }
 .slider1 .item1 {
-    background:image("../home1.jpg") no-repeat center;
+    background:image("../withlovefinal.jpg") no-repeat center;
 }
 .slider1 .item2 {
-    background:image("../home2.jpg") no-repeat center;
+    background:image("../home1.jpg") no-repeat center;
 }
 .slider1 .item3 {
-    background:image("../home3.jpg") no-repeat center;
+    background:image("../home2.jpg") no-repeat center;
 }
 .slider1 .item4 {
-    background:image("../home4.png") no-repeat center;
+    background:image("../home3.jpg") no-repeat center;
 }
 .slider1 {
     color:#fff;
