@@ -17,4 +17,16 @@ $(()=>{
         duration: 300
     });
 
+
+    $('.slider').glide({
+        type:'carousel',
+        autoplay: 1000,
+        arrowsWrapperClass: 'slider-arrows',
+        arrowRightText: '',
+        arrowLeftText: '',
+        animationDuration:500
+    });
+
+
+
 });
